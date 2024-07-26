@@ -1,0 +1,7 @@
+.home-background {
+    background-image: url('../../assets/homeBackground.jpeg');
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
